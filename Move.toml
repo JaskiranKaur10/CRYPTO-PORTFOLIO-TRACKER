@@ -1,0 +1,16 @@
+[package]
+name = "CRYPTO-PORTFOLIO-TRACKER"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule="0xccb0eb7bcd96cc4665838d3cb9a95ee86642142351dd7fff7876c1da7cc8a0aa"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
