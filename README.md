@@ -52,14 +52,12 @@ We envision a future where every crypto investor has access to professional-grad
 - **Gas Optimization**: Reduce transaction costs through code optimization
 - **Scalability**: Implement batch operations for managing multiple holdings
 - **Security Audits**: Conduct comprehensive security reviews and penetration testing
-
-  ----
-  TRANSACTION ID: '0x93ca42e886c895c7e71675d47356970d3c7d6165f46a6d8465a15a70674656f7'
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/306d5005-122e-400d-8e13-7037d585c802" />
-
-TRANSACTION ID: '0x93ca42e886c895c7e71675d47356970d3c7d6165f46a6d8465a15a70674656f7'
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/706b230e-a1cf-4f63-8e2a-eb7df11e5bac" />
-
 - **Performance Monitoring**: Add analytics and monitoring for contract performance
 
 The Crypto Portfolio Tracker represents the foundation for a comprehensive decentralized finance ecosystem, starting with simple portfolio tracking and evolving into a full-featured investment management platform.
+
+
+Transaction ID: '0x93ca42e886c895c7e71675d47356970d3c7d6165f46a6d8465a15a70674656f7'
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7eb5d210-83be-4fcd-a129-8ef2c488f924" />
+
